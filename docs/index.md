@@ -20,7 +20,7 @@ header_hidden: true
       </td>
       <td>
         <a href="/japarimeter">
-          <img class="no-image-border less-padding" src="{{site.baseurl}}/assets/img/production/japarimeter_rev1.svg" style="max-width: 200px"/>
+          <img class="no-image-border less-padding" src="{{site.baseurl}}/assets/img/production/japarimeter_rev1.svg" style="max-width: 100%; max-height: 36px;"/>
         </a>
         <br/>
         手のひらサイズの温湿度気圧計
@@ -34,7 +34,7 @@ header_hidden: true
       </td>
       <td>
         <a href="/japariradio">
-          <img class="no-image-border less-padding" src="{{site.baseurl}}/assets/img/production/japariradio_rev1.svg" style="max-width: 200px"/>
+          <img class="no-image-border less-padding" src="{{site.baseurl}}/assets/img/production/japariradio_rev1.svg" style="max-width: 100%; max-height: 36px;"/>
         </a>
         <br/>
         手のひらサイズのFMラジオ
