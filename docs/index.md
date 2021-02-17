@@ -7,7 +7,7 @@ header_hidden: true
 ---
 
 <div class="borderless-table no-image-border less-padding center-table" style="max-width: 540px; margin-bottom: 50px">
-  <img src="{{site.baseurl}}/assets/img/logo-thin.svg" style="max-width: 540px" />
+  <img src="{{site.baseurl}}/assets/img/logo-thin.svg" style="max-width: 100%" />
 </div>
 
 <table class="borderless-table no-image-border less-padding center-table table-align-bottom" style="max-width: 600px">
