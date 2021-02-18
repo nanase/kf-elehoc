@@ -43,6 +43,13 @@ header_hidden: true
   </tbody>
 </table>
 
+## この部について
+
+けもフレに着想を得た電子工作の作品を製作し紹介していくゆるーいサークルです。<br />
+部長のギンギツネを筆頭に、光り物、鳴り物、そのほか意外な作品を作っていきます。
+
+**けもフレ電子工作部はけもフレファンによる非公式サークルです。**
+
 ## メンバー
 
 <table class="borderless-table no-image-border less-padding center-table" style="max-width: 600px">
