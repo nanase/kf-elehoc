@@ -43,6 +43,12 @@ header_hidden: true
   </tbody>
 </table>
 
+## 頒布情報 (2021/04/04)
+
+<div style="margin: 0 auto; max-width: 550px;">
+  <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【📢おしらせ】<br><br>4/4のフレンズチホー15にて「けもフレ電子工作部」として完成品、基板の頒布をいたします💁‍♀️<br><br>🌡️ JapariMeter 完成品<br>📻 JapariRadio 完成品<br>✨ JapariSpark 基板のみ（動作展示予定）<br><br>配置は E-07 です。画像も見てね👇<br><br>▼公式サイト<a href="https://t.co/dCW2IOrORI">https://t.co/dCW2IOrORI</a><a href="https://twitter.com/hashtag/%E3%81%91%E3%82%82%E3%83%95%E3%83%AC%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%83%A8?src=hash&amp;ref_src=twsrc%5Etfw">#けもフレ電子工作部</a> <a href="https://t.co/CqIBhoxHY3">pic.twitter.com/CqIBhoxHY3</a></p>&mdash; 七瀬 📢4/4フレチE-07 (@nanase_coder) <a href="https://twitter.com/nanase_coder/status/1377962695702421506?ref_src=twsrc%5Etfw">April 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## この部について
 
 けもフレに着想を得た電子工作の作品を製作し紹介していくゆるーいサークルです。<br />
