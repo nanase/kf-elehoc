@@ -375,6 +375,15 @@ h3 {
   border-radius: 15px;
 }
 
+.rounded-img-hover {
+  transition: border-radius 0.1s;
+
+  &:hover {
+    border-radius: 5px;
+    transition: border-radius 0.2s;
+  }
+}
+
 .epitaph {
   font-family: 'Palanquin Dark', sans-serif;
 }

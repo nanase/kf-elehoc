@@ -15,7 +15,7 @@ header_hidden: true
     <tr>
       <td>
         <a href="/japariradio">
-          <img class="no-image-border less-padding width-100p rounded-img" src="{{site.baseurl}}/assets/img/production/japariradio_rev3.jpg" />
+          <img class="no-image-border less-padding width-100p rounded-img rounded-img-hover" src="{{site.baseurl}}/assets/img/production/japariradio_rev3.jpg" />
         </a>
       </td>
       <td class="overflow">
@@ -29,7 +29,7 @@ header_hidden: true
     <tr>
       <td>
         <a href="/japarichroma">
-          <img class="no-image-border less-padding width-100p rounded-img" src="{{site.baseurl}}/assets/img/production/japarichroma_rev1.jpg" />
+          <img class="no-image-border less-padding width-100p rounded-img rounded-img-hover" src="{{site.baseurl}}/assets/img/production/japarichroma_rev1.jpg" />
         </a>
       </td>
       <td class="overflow">
@@ -50,7 +50,7 @@ header_hidden: true
     <tr>
       <td>
         <a href="/japarimeter">
-          <img class="no-image-border less-padding width-100p rounded-img" src="{{site.baseurl}}/assets/img/production/japarimeter_rev1.jpg" />
+          <img class="no-image-border less-padding width-100p rounded-img rounded-img-hover" src="{{site.baseurl}}/assets/img/production/japarimeter_rev1.jpg" />
         </a>
       </td>
       <td class="overflow">
