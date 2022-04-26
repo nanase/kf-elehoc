@@ -64,6 +64,22 @@ header_hidden: true
   </tbody>
 </table>
 
+## 頒布情報 (2022/05/04)
+
+JapariRadio Rev.3、JapariChroma および JapariRadio Rev.1 の頒布と展示を行います。このほか、スティルマンさんによるケープペンギン T シャツの頒布も行われます。
+
+<p>
+  2022.05.04 (水・祝) みどりの日 11:00-15:00
+  <a href="https://friendsihoo.tumblr.com/" target="_blank"><br />
+  フレンズチホー19</a> <span class="foot-note">(フレンズチホー18)</span><br />
+  都立産業貿易センター 台東館 6F 「けもフレ電子工作部」<strong>A-04</strong>
+</p>
+
+<div class="no-image-border text-center center-table" style="max-width: 400px">
+  <a href="{{site.baseurl}}/assets/pdf/distribute/2022_05_04_friends_chiho.pdf"><img class="no-image-border less-padding width-100p" src="{{site.baseurl}}/assets/img/distribute/2022_05_04_friends_chiho_thumbnail.jpg" /></a><br />
+  電子カタログ: <a href="{{site.baseurl}}/assets/pdf/distribute/2022_05_04_friends_chiho.pdf">PDF</a> / <a href="{{site.baseurl}}/assets/img/distribute/2022_05_04_friends_chiho.jpg">JPEG</a>
+</div>
+
 ## 部について
 
 けもフレに着想を得た電子工作の作品を製作し、紹介していくゆるーいサークルです。<br />
