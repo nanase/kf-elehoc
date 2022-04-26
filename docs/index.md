@@ -14,25 +14,11 @@ header_hidden: true
   <tbody>
     <tr>
       <td>
-        <a href="/japarimeter">
-          <img class="no-image-border less-padding width-100p rounded-img" src="{{site.baseurl}}/assets/img/production/japarimeter_rev1.jpg" />
-        </a>
-      </td>
-      <td>
-        <a href="/japarimeter">
-          <img class="no-image-border less-padding" src="{{site.baseurl}}/assets/img/production/japarimeter_rev1.svg" style="max-width: 100%; max-height: 36px;"/>
-        </a>
-        <br/>
-        手のひらサイズの温湿度気圧計
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a href="/japariradio">
-          <img class="no-image-border less-padding width-100p rounded-img" src="{{site.baseurl}}/assets/img/production/japariradio_rev1.jpg" />
+          <img class="no-image-border less-padding width-100p rounded-img" src="{{site.baseurl}}/assets/img/production/japariradio_rev3.jpg" />
         </a>
       </td>
-      <td>
+      <td class="overflow">
         <a href="/japariradio">
           <img class="no-image-border less-padding" src="{{site.baseurl}}/assets/img/production/japariradio_rev1.svg" style="max-width: 100%; max-height: 36px;"/>
         </a>
@@ -40,19 +26,48 @@ header_hidden: true
         手のひらサイズのFMラジオ
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="/japarichroma">
+          <img class="no-image-border less-padding width-100p rounded-img" src="{{site.baseurl}}/assets/img/production/japarichroma_rev1.jpg" />
+        </a>
+      </td>
+      <td class="overflow">
+        <a href="/japarichroma">
+          <img class="no-image-border less-padding" src="{{site.baseurl}}/assets/img/production/japarichroma_rev1.svg" style="max-width: 100%; max-height: 36px;"/>
+        </a>
+        <br/>
+        手のひらサイズのフルカラー投光器
+      </td>
+    </tr>
   </tbody>
 </table>
 
-## 頒布情報 (2021/04/04)
+<div class="bordered text-center epitaph discontinued">DISCONTINUED</div>
 
-<div style="margin: 0 auto; max-width: 550px;">
-  <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【📢おしらせ】<br><br>4/4のフレンズチホー15にて「けもフレ電子工作部」として完成品、基板の頒布をいたします💁‍♀️<br><br>🌡️ JapariMeter 完成品<br>📻 JapariRadio 完成品<br>✨ JapariSpark 基板のみ（動作展示予定）<br><br>配置は E-07 です。画像も見てね👇<br><br>▼公式サイト<a href="https://t.co/dCW2IOrORI">https://t.co/dCW2IOrORI</a><a href="https://twitter.com/hashtag/%E3%81%91%E3%82%82%E3%83%95%E3%83%AC%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%83%A8?src=hash&amp;ref_src=twsrc%5Etfw">#けもフレ電子工作部</a> <a href="https://t.co/CqIBhoxHY3">pic.twitter.com/CqIBhoxHY3</a></p>&mdash; 七瀬 📢4/4フレチE-07 (@nanase_coder) <a href="https://twitter.com/nanase_coder/status/1377962695702421506?ref_src=twsrc%5Etfw">April 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<table class="borderless-table no-image-border less-padding center-table table-align-bottom discontinued" style="max-width: 400px">
+  <tbody>
+    <tr>
+      <td>
+        <a href="/japarimeter">
+          <img class="no-image-border less-padding width-100p rounded-img" src="{{site.baseurl}}/assets/img/production/japarimeter_rev1.jpg" />
+        </a>
+      </td>
+      <td class="overflow">
+        <a href="/japarimeter">
+          <img class="no-image-border less-padding" src="{{site.baseurl}}/assets/img/production/japarimeter_rev1.svg" style="max-width: 100%; max-height: 28px;"/>
+        </a>
+        <br/>
+        手のひらサイズの温湿度気圧計
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## この部について
+## 部について
 
-けもフレに着想を得た電子工作の作品を製作し紹介していくゆるーいサークルです。<br />
-部長のギンギツネを筆頭に、光り物、鳴り物、そのほか意外な作品を作っていきます。
+けもフレに着想を得た電子工作の作品を製作し、紹介していくゆるーいサークルです。<br />
+日夜謎の発明品を考案し生み出す部長のギンギツネを筆頭に、光り物、鳴り物、そのほか意外な作品を作っていきます。
 
 **けもフレ電子工作部はけもフレファンによる非公式サークルです。**
 
@@ -68,6 +83,12 @@ header_hidden: true
       <td>部員</td>
       <td>
         七瀬 <span class="foot-note"><a href="https://twitter.com/nanase_coder" target="_blank">@nanase_coder</a></span>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        スティルマン <span class="foot-note"><a href="https://twitter.com/lp_stillman" target="_blank">@lp_stillman</a></span>
       </td>
     </tr>
   </tbody>
