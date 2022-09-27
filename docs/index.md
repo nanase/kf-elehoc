@@ -108,6 +108,12 @@ JapariRadio Rev.3、JapariChroma および JapariRadio Rev.1 の頒布と展示�
         スティルマン <span class="foot-note"><a href="https://twitter.com/lp_stillman" target="_blank">@lp_stillman</a></span>
       </td>
     </tr>
+    <tr>
+      <td></td>
+      <td>
+        トロピカル <span class="foot-note"><a href="https://twitter.com/toropesirodasi" target="_blank">@toropesirodasi</a></span>
+      </td>
+    </tr>
   </tbody>
 </table>
 
