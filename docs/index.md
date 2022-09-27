@@ -64,6 +64,7 @@ header_hidden: true
   </tbody>
 </table>
 
+<!--
 ## 頒布情報 (2022/05/04)
 
 JapariRadio Rev.3、JapariChroma および JapariRadio Rev.1 の頒布と展示を行います。このほか、スティルマンさんによるケープペンギン T シャツの頒布も行われます。
@@ -78,7 +79,7 @@ JapariRadio Rev.3、JapariChroma および JapariRadio Rev.1 の頒布と展示�
 <div class="no-image-border text-center center-table" style="max-width: 400px">
   <a href="{{site.baseurl}}/assets/pdf/distribute/2022_05_04_friends_chiho.pdf"><img class="no-image-border less-padding width-100p" src="{{site.baseurl}}/assets/img/distribute/2022_05_04_friends_chiho_thumbnail.jpg" /></a><br />
   電子カタログ: <a href="{{site.baseurl}}/assets/pdf/distribute/2022_05_04_friends_chiho.pdf">PDF</a> / <a href="{{site.baseurl}}/assets/img/distribute/2022_05_04_friends_chiho.jpg">JPEG</a>
-</div>
+</div> -->
 
 ## 部について
 
